@@ -6,12 +6,6 @@ DimBook - Notebook that provides an easy way to apply these functions outside of
 DimScript_cmd - Script that runs the function from the commandline.
 functions - Contains functions for importing into DimBook and DimScript_cmd.
 
-[Link to the Transformed Unimorph Data](https://drive.google.com/drive/folders/174NwrTTECrmZUq_XY2ao8yxKXAXeIzxg?usp=sharing)
-- Arthur must give you access to see this Google Drive
-- Dimensions ordered alphabetically
-- Contains column denoting occurence of both 1st and 2nd person in a word's features
-- Contains columns denoting if a word contains a certain feature (pivot table format)
-
 Things to keep in mind:
 
 - Make sure all of these files are in the same folder (particularly functions). Unless you install the functions.py file.
