@@ -1,6 +1,6 @@
 # Unimorph Data Transformed
 
-mod_eng is a SAMPLE of what the rest of the data looks like. All other languages are stored on a Google drive.
+mod_eng.csv is a SAMPLE of what the rest of the data looks like. All other languages are stored on a Google drive.
 
 [Link to the full Transformed Unimorph Data](https://drive.google.com/drive/folders/174NwrTTECrmZUq_XY2ao8yxKXAXeIzxg?usp=sharing)
 - Arthur must give you access to see this Google Drive
