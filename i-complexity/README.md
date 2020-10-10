@@ -1,14 +1,11 @@
 # I-Complexity
 
 Scripts, notebooks, and transformed data pertaining to the i-complexity project.
-<br>
-Dimension_Clean - Notebook showcasing how the functions work
-<br>
-DimBook - Notebook that provides an easy way to apply these functions outside of the commandline. Contains functionality for applying to both single files or entires folders.
-<br>
-DimScript_cmd - Script that runs the function from the commandline.
-<br>
-functions - Contains functions for importing into DimBook and DimScript_cmd.
+
+- Dimension_Clean - Notebook showcasing how the functions work
+- DimBook - Notebook that provides an easy way to apply these functions outside of the commandline. Contains functionality for applying to both single files or entires folders.
+- DimScript_cmd - Script that runs the function from the commandline.
+- functions - Contains functions for importing into DimBook and DimScript_cmd.
 
 Things to keep in mind:
 
