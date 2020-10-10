@@ -12,7 +12,7 @@ functions - Contains functions for importing into DimBook and DimScript_cmd.
 
 Things to keep in mind:
 
-- Make sure all of these files are in the same folder (particularly functions). Unless you install the functions.py file.
+- Make sure functions.py is in the same folder as the notebooks. OR install the functions.py file to your python distribution.
 
 master function
 ---------------
