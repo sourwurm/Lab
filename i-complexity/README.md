@@ -21,12 +21,14 @@ master function
 	   to keep the old file and the new file seperate and organized.
 
 - OPTIONAL PARAMETERS
-	1. dim1, dim2, and dim3
+	1. dim1 
+	2. dim2 
+	3. dim3
 		*Let's you specify dimensions to order the features by. Dimensions that aren't specified
-		 will be ordered normally (still by dimension, but will come after).
-		* dim1 and dim2 need to be specified for dim3 to work, and similarly dim1 must be defined
-		  for dim2 to work. (i.e. cant define just dim1 and dim3, or dim 2 and dim3).
-		* dim1, dim2, and dim3 will be ordered as well. (dim1 appears first, dim2 after that, etc.)
+		 will be ordered normally (alphabetically).
+		* ex: dim1 = 'Person' -> All features pertaining to the 'Person' dimension will appear first in the 'features' column. Every feature that is NOT in the 'Person' dimensions will be ordered alphabetically, and appear after all of the 'Person' features.
+		* if using dim2 and dim3 too: dim1 appears first, followed by dim2, and then dim3. Un-specified dimensions will follow afterwards, again in alphabetical order (by dimension).
+
 
 All functions can be run independently through imports in a notebook, or through the commandline.
 Instructions on how to make a call with the commandline while including arguments are here:
