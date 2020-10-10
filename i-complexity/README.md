@@ -24,7 +24,7 @@ master function
 	1. dim1 
 	2. dim2 
 	3. dim3
-		*Let's you specify dimensions to order the features by. Dimensions that aren't specified
+		* Let's you specify dimensions to order the features by. Dimensions that aren't specified
 		 will be ordered normally (alphabetically).
 		* ex: dim1 = 'Person' -> All features pertaining to the 'Person' dimension will appear first in the 'features' column. Every feature that is NOT in the 'Person' dimensions will be ordered alphabetically, and appear after all of the 'Person' features.
 		* if using dim2 and dim3 too: dim1 appears first, followed by dim2, and then dim3. Un-specified dimensions will follow afterwards, again in alphabetical order (by dimension).
